@@ -1,2 +1,0 @@
-# learncode
-Hello World
